@@ -2,14 +2,14 @@
 7 ML Algorithms applied to 7 different datasets to predict covid-19.
 We have used SVM, KNN XGBoost, Random Forest, Naive Bayes, Fischer's linear discriminant and Logistic regression.
 We have tried different imputation strategies on the dataset to try and come up with best precision and recall scores.
-
+```
 Dataset-1
-1)	Logistic regression
+1)	Logistic regression:
 •	AUC score:0.83
 •	Accuracy:0.70
 •	Sensitivity:0.12
 •	Specificity:0.97
-2)	Naïve Baiye’s
+2)	Naïve Baiye’s:
 •	AUC score:0.64
 •	Accuracy:0.44
 •	Sensitivity:0.97
@@ -24,18 +24,18 @@ Dataset-1
 •	Accuracy:0.67
 •	Sensitivity:0.76
 •	Specificity: 0.46
-5)	XGBoost
+5)	XGBoost:
 •	AUC score:0.95
 •	Accuracy:0.93
 •	Sensitivity:0.80
 •	Specificity: 0.97
 
-6)	Random Forest
+6)	Random Forest:
 •	AUC score:0.78
 •	Accuracy:0.70
 •	Sensitivity:0.70
 •	Specificity: 0.71
-7)	SVM
+7)	SVM:
 •	AUC score:0.76
 •	Accuracy:0.68
 •	Sensitivity:0.06

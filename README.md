@@ -40,7 +40,7 @@ Dataset-1
 •	Accuracy:0.68
 •	Sensitivity:0.06
 •	Specificity: 0.97
-
+```
 ![image](https://user-images.githubusercontent.com/39831386/130591811-cfa621f3-8f6f-42ff-8a9d-280a30c194f9.png)
 ```
 Dataset-1b
@@ -81,9 +81,9 @@ Dataset-1b
 •	Accuracy: 0.95
 •	Sensitivity: 0.86
 •	Specificity: 0.96
-
+```
 ![image](https://user-images.githubusercontent.com/39831386/130591843-61ce2cfd-82fc-46bc-9a71-892466a0988e.png)
-
+```
 Dataset-2
 
 15)	Logistic regression
@@ -123,9 +123,9 @@ Dataset-2
 •	Accuracy:0.88
 •	Sensitivity:0
 •	Specificity: 1
-
+```
 ![image](https://user-images.githubusercontent.com/39831386/130591867-55f12596-bf3a-4c4b-9624-86aaf2b6cf25.png)
-
+```
 Dataset-3
 
 22)	Logistic regression
@@ -166,9 +166,9 @@ Dataset-3
 •	Accuracy:0.88
 •	Sensitivity:0.00
 •	Specificity: 1.00
-
+```
 ![image](https://user-images.githubusercontent.com/39831386/130591883-06c097f0-501f-4d22-ba19-433000597efb.png)
-
+```
 Dataset-4
 
 29)	Logistic regression
@@ -209,9 +209,9 @@ Dataset-4
 •	Accuracy:0.77
 •	Sensitivity:0.77
 •	Specificity: 0.78
-
+```
 ![image](https://user-images.githubusercontent.com/39831386/130591904-a6e5c357-24e3-4aa2-86c6-f3afc2092d68.png)
-
+```
 Dataset-5
 
 36)	Logistic regression
@@ -251,9 +251,9 @@ Dataset-5
 •	Accuracy:0.63
 •	Sensitivity:0.81
 •	Specificity: 0.46
-
+```
 ![image](https://user-images.githubusercontent.com/39831386/130591924-4baeb83c-89fa-4509-abbf-1d6639282144.png)
-
+```
 Dataset-6
 
 43)	Logistic regression
@@ -293,5 +293,5 @@ Dataset-6
 •	Accuracy:0.74
 •	Sensitivity:0.24
 •	Specificity: 0.96
-
+```
 ![image](https://user-images.githubusercontent.com/39831386/130591946-bc979a76-565b-4bad-aa04-b7846b4122e2.png)

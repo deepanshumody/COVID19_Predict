@@ -9,7 +9,7 @@ Dataset-1
 •	Accuracy:0.70
 •	Sensitivity:0.12
 •	Specificity:0.97
-2)	Naïve Bayer’s
+2)	Naïve Baiye’s
 •	AUC score:0.64
 •	Accuracy:0.44
 •	Sensitivity:0.97
@@ -44,12 +44,13 @@ Dataset-1
 ![image](https://user-images.githubusercontent.com/39831386/130591811-cfa621f3-8f6f-42ff-8a9d-280a30c194f9.png)
 
 Dataset-1b
+
 8)	Logistic regression
 •	AUC score: 0.88 
 •	Accuracy: 0.90
 •	Sensitivity: 0.42
 •	Specificity: 0.99
-9)	Naïve Bayer’s
+9)	Naïve Baiye’s
 •	AUC score: 0.79
 •	Accuracy: 0.84
 •	Sensitivity: 0.67
@@ -89,7 +90,7 @@ Dataset-2
 •	Accuracy:0.87
 •	Sensitivity:0.42
 •	Specificity:0.95
-16)	Naïve Bayer’s
+16)	Naïve Baiye’s
 •	AUC score:0.76
 •	Accuracy:0.78
 •	Sensitivity:0.58
@@ -130,7 +131,7 @@ Dataset-3
 •	Accuracy:0.88
 •	Sensitivity:0.25
 •	Specificity:0.99
-23)	Naïve Bayer’s
+23)	Naïve Baiye’s
 •	AUC score:0.78
 •	Accuracy:0.79
 •	Sensitivity:0.58
@@ -171,7 +172,7 @@ Dataset-3
 •	Accuracy:0.78
 •	Sensitivity:0.82
 •	Specificity:0.74
-30)	Naïve Bayer’s
+30)	Naïve Baiye’s
 •	AUC score:0.82
 •	Accuracy:0.69
 •	Sensitivity:0.92
@@ -212,7 +213,7 @@ Dataset-3
 •	Accuracy:0.69
 •	Sensitivity:0.83
 •	Specificity:0.52
-37)	Naïve Bayer’s
+37)	Naïve Baiye’s
 •	AUC score:0.73
 •	Accuracy:0.66
 •	Sensitivity:0.91
@@ -253,7 +254,7 @@ Dataset-6
 •	Accuracy:0.78
 •	Sensitivity:0.47
 •	Specificity:0.90
-44)	Naïve Bayer’s
+44)	Naïve Baiye’s
 •	AUC score:0.72
 •	Accuracy:0.70
 •	Sensitivity:0.67

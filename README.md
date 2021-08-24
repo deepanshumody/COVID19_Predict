@@ -41,6 +41,7 @@ Dataset-1
 •	Specificity: 0.97
 
 ![image](https://user-images.githubusercontent.com/39831386/130591811-cfa621f3-8f6f-42ff-8a9d-280a30c194f9.png)
+
 Dataset-1b
 8)	Logistic regression
 •	AUC score: 0.88 
@@ -80,6 +81,7 @@ Dataset-1b
 •	Specificity: 0.96
 
 ![image](https://user-images.githubusercontent.com/39831386/130591843-61ce2cfd-82fc-46bc-9a71-892466a0988e.png)
+
 Dataset-2
 15)	Logistic regression
 •	AUC score:0.82
@@ -120,6 +122,7 @@ Dataset-2
 •	Specificity: 1
 
 ![image](https://user-images.githubusercontent.com/39831386/130591867-55f12596-bf3a-4c4b-9624-86aaf2b6cf25.png)
+
 Dataset-3
 22)	Logistic regression
 •	AUC score:0.82
@@ -161,6 +164,7 @@ Dataset-3
 •	Specificity: 1.00
 
 ![image](https://user-images.githubusercontent.com/39831386/130591883-06c097f0-501f-4d22-ba19-433000597efb.png)
+
 29)	Logistic regression
 •	AUC score: 0.85
 •	Accuracy:0.78
@@ -201,6 +205,7 @@ Dataset-3
 •	Specificity: 0.78
 
 ![image](https://user-images.githubusercontent.com/39831386/130591904-a6e5c357-24e3-4aa2-86c6-f3afc2092d68.png)
+
 36)	Logistic regression
 •	AUC score:0.77
 •	Accuracy:0.69
@@ -240,6 +245,7 @@ Dataset-3
 •	Specificity: 0.46
 
 ![image](https://user-images.githubusercontent.com/39831386/130591924-4baeb83c-89fa-4509-abbf-1d6639282144.png)
+
 Dataset-6
 43)	Logistic regression
 •	AUC score:0.77

@@ -42,7 +42,7 @@ Dataset-1
 •	Specificity: 0.97
 
 ![image](https://user-images.githubusercontent.com/39831386/130591811-cfa621f3-8f6f-42ff-8a9d-280a30c194f9.png)
-
+```
 Dataset-1b
 
 8)	Logistic regression
